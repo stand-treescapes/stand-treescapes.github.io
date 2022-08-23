@@ -1,5 +1,5 @@
 layout: page
-title: "HOME"
+title: "Home"
 permalink: /index/
 
 # STAND 
