@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# STAND 
+## About the project
+STAND is a [*Future of UK Treescapes*](https://www.uktreescapes.org/) project.
 
-You can use the [editor on GitHub](https://github.com/t-finch/stand-treescapes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The expansion of woodlands and treescapes forms a core part of the UK Government's Net Zero Strategy. However, national policy rarely maps neatly onto actions at lower spatial scales (e.g. farms and landscapes). This 'scale mismatch' creates a barrier to effective treescape expansion. STAND will combine national- and landscape-scale modelling with Participatory Scenario Planning to understand how future treescapes can achieve the best outcomes for people and nature. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About the team
+**Tom Finch** (RSPB)
 
-### Markdown
+**Natasha Constant** (RSPB)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Susan Baker** (University of Cardiff)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/t-finch/stand-treescapes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Euan Bowditch** (University of the Highlands and Islands)
