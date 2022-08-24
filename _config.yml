@@ -1,6 +1,2 @@
 theme: jekyll-theme-minima
 logo: /assets/images/STAND logo.png
-header_pages:
-  - index.md
-  - about.md
-  - hello.md
