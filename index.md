@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # STAND 
 STAND is a [*Future of UK Treescapes*](https://www.uktreescapes.org/) project, starting in late 2022.
 
