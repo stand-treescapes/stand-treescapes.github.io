@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "About STAND"
+title: "About"
 permalink: /about/
 ---
 
