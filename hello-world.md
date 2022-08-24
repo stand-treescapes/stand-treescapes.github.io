@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Hello World"
-permalink: /hello-world/
+title: "News"
+permalink: /news/
 ---
 
-Hey There!
+News will go here
