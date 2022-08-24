@@ -4,12 +4,6 @@ title: "About"
 permalink: /about/
 ---
 
-# STAND
-## About the team
-**Tom Finch** (RSPB Centre for Conservation Science)
+The expansion of woodlands and treescapes forms a core part of the UK Government's Net Zero Strategy. However, national policy rarely maps neatly onto actions at lower spatial scales (e.g. farms and landscapes). This 'scale mismatch' creates a barrier to effective treescape expansion. STAND will combine national- and landscape-scale modelling with Participatory Scenario Planning to understand how future treescapes can achieve the best outcomes for people and nature. 
 
-**Natasha Constant** (RSPB Centre for Conservation Science)
-
-**Susan Baker** (Cardiff University)
-
-**Euan Bowditch** (University of the Highlands and Islands)
+STAND will ask how landscape-scale treescape expansion can be designed and governed across scales to achieve the best outcomes for people and nature. 
