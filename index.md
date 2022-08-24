@@ -1,11 +1,6 @@
 ---
 layout: home
 ---
-<img src="assets/images/STAND logo.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;"
-     width="500"
-     height="500"/>
      
 # STAND 
 STAND is a [*Future of UK Treescapes*](https://www.uktreescapes.org/) project, starting in late 2022. STAND is a collaboration between the [RSPB](https://www.rspb.org.uk/our-work/conservation/centre-for-conservation-science/), [Cardiff University](https://www.cardiff.ac.uk/social-sciences) and [UHI](https://www.inverness.uhi.ac.uk/research/forestry-and-conservation-group/).
