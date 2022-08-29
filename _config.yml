@@ -1,3 +1,3 @@
 theme: minima
-site.logo: assets/img/logo.png
+site.logo: /stand/assets/img/logo-landscape.png
 site.title: "STAND"
