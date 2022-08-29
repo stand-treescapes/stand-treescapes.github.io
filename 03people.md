@@ -3,12 +3,15 @@ layout: default
 title: "People"
 permalink: /people/
 ---
-We are: 
+STAND unites an interdisciplinary team of researchers interested in how treescape expansion can be designed and governed to benefit people and nature:
 
-**Tom Finch** (RSPB Centre for Conservation Science)
+* **Tom Finch** (RSPB Centre for Conservation Science)
 
-**Natasha Constant** (RSPB Centre for Conservation Science)
+* **Natasha Constant** (RSPB Centre for Conservation Science)
 
-**Susan Baker** (Cardiff University)
+* **Susan Baker** (Cardiff University)
 
-**Euan Bowditch** (University of the Highlands and Islands)
+* **Euan Bowditch** (University of the Highlands and Islands)
+
+### Job opportunities:
+Watch this space!
