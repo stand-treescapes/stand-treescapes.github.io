@@ -18,5 +18,5 @@ STAND unites an interdisciplinary team of researchers interested in how treescap
 
 <!-- ## Expert Advisory Panel -->
 
-## Job opportunities:
+## Job opportunities
 Watch this space!
