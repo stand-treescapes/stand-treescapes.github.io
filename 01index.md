@@ -13,4 +13,4 @@ The expansion of woodlands and treescapes forms a core part of the UK Government
 Our case study landscapes exemplify the societal and ecological challenges and opportunities of treescape expansion. Elenydd-Mallaen in mid-Wales overlaps the SPA of the same name, whilst the North Pennines & Dales in northern England occupies the North Pennines AONB and most of the Yorkshire Dales NP. Both landscapes are primarily upland in nature, but have contrasting incumbent land uses and devolved policy contexts. Current woodland cover stands at 4% in Elenydd-Mallaen and 8% in North Pennines & Dales, and in both cases is dominated by non-native coniferous plantations. 
 
 ### Graphical overview of STAND's research questions
-<img src="/stand/assets/img/STAND-diagram.png">
+<img src="/stand/assets/img/STAND-diagram.png" width=1000>
