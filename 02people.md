@@ -13,5 +13,5 @@ STAND unites an interdisciplinary team of researchers interested in how treescap
 
 * **Euan Bowditch** (University of the Highlands and Islands)
 
-### Job opportunities:
+## Job opportunities:
 Watch this space!
