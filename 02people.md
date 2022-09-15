@@ -6,6 +6,7 @@ permalink: /people/
 <style>
 td, th {
    border: none!important;
+   color: #FFFFFF;
    background-color: #FFFFFF;
 }
 </style>
