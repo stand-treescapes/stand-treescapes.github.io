@@ -7,7 +7,7 @@ permalink: /people/
 <style>
 td, th {
    border: none!important;
-   border-collapse: collapse;
+   border-color: #FFFFFF;
    background-color: #FFFFFF;
 }
 </style>
