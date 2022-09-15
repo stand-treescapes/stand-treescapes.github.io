@@ -3,6 +3,12 @@ layout: default
 title: "People"
 permalink: /people/
 ---
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 ## Project team
 STAND unites an interdisciplinary team of researchers interested in how treescape expansion can be designed and governed to benefit people and nature:
 
