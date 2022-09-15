@@ -13,7 +13,7 @@ td, th {
 </style>
 
 ## Project team
-STAND unites an interdisciplinary team of researchers interested in how treescape expansion can be designed and governed to benefit people and nature:
+STAND unites an interdisciplinary and geographically spread team of researchers interested in how treescape expansion can be designed and governed to benefit people and nature:
 
 | <img src="/stand/assets/img/tf.png" width=100> | **Dr Tom Finch** (RSPB Centre for Conservation Science) | 
 | <img src="/stand/assets/img/sb.png" width=100> | **Prof Susan Baker** (School of Social Sciences, Cardiff University) |
