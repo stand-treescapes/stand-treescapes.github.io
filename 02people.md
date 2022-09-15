@@ -3,6 +3,7 @@ layout: default
 title: "People"
 permalink: /people/
 ---
+<!-- ## Edit CSS style for markdown tables -->
 <style>
 td, th {
    border: none!important;
