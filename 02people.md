@@ -6,7 +6,7 @@ permalink: /people/
 <!-- ## Edit CSS style for markdown tables -->
 <style>
 td, th {
-   border-collapse: collapse;
+   border: none!;
    background-color: #FFFFFF;
 }
 </style>
