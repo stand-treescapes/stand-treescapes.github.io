@@ -22,7 +22,13 @@ STAND unites an interdisciplinary and geographically spread team of researchers 
 
 <!-- ## Partners -->
 
-<!-- ## Expert Advisory Panel -->
+## Expert Advisory Group
+We're delighted to have the support of the following people on our Expert Advisory Group:
+* Clare Pinches (Natural England)
+* Clare Williams (Defra)
+* Eleanor Tew (Forestry England)
+* Matthew Dennis (University of Leeds)
+* Chris Blake (The Green Valleys CIC)
 
 ## Job opportunities
 Watch this space!
