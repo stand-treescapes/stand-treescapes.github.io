@@ -20,15 +20,16 @@ STAND unites an interdisciplinary and geographically spread team of researchers 
 | <img src="/stand/assets/img/nc.png" width=100> | **Dr Natasha Constant** (RSPB Centre for Conservation Science) |
 | <img src="/stand/assets/img/eb.png" width=100> | **Dr Euan Bowditch** (Scottish School of Forestry Research, University of the Highlands and Islands) |
 
-<!-- ## Partners -->
+<!-- ## Partner organisations -->
 
 ## Expert Advisory Group
 We're delighted to have the support of the following experts, who will provide technical and policy-related oversight to the project:
-* Clare Pinches (Natural England)
-* Clare Williams (Defra)
-* Eleanor Tew (Forestry England)
-* Matthew Dennis (University of Leeds)
 * Chris Blake (The Green Valleys CIC)
+* Matthew Dennis (University of Leeds)
+* Clare Pinches (Natural England)
+* Eleanor Tew (Forestry England)
+* Andrew Weatherall (RSPB)
+* Clare Williams (Defra)
 
 ## Job opportunities
 Watch this space!
