@@ -23,7 +23,7 @@ STAND unites an interdisciplinary and geographically spread team of researchers 
 <!-- ## Partners -->
 
 ## Expert Advisory Group
-We're delighted to have the support of the following people on our Expert Advisory Group:
+We're delighted to have the support of the following experts, who will provide technical and policy-related oversight to the project:
 * Clare Pinches (Natural England)
 * Clare Williams (Defra)
 * Eleanor Tew (Forestry England)
