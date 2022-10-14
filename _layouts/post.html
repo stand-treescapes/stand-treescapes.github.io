@@ -1,17 +1,6 @@
 ---
 layout: default
 ---
-<!-- Look the author details up from the site config. -->
-{% assign author = site.data.authors[page.author] %}
-
-<!-- Output author details if some exist. -->
-{% if author %}
-    <span>
-        <!-- Personal Info. -->
-        Written by {{ author.name }}
-    </span>
-{% endif %}
-
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
@@ -32,7 +21,7 @@ layout: default
         -%}
         • {% for author in page.author %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <span class="p-author h-card" itemprop="name">{{ author.name }}</span></span>
+            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
       {%- endif -%}</p>
