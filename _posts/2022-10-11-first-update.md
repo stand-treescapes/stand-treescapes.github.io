@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First update"
-author: tom_finch
+author: Tom Finch
 ---
 
 ## Success!
