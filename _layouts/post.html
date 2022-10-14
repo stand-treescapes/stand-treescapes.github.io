@@ -8,7 +8,7 @@ layout: default
 {% if author %}
     <span>
         <!-- Personal Info. -->
-        Written by <a href="{{ author.web }}">{{ author.name }}</a>
+        Written by {{ author.name }}
     </span>
 {% endif %}
 
@@ -28,10 +28,11 @@ layout: default
           {{ mdate | date: date_format }}
         </time>
       {%- endif -%}
-      {%- if page.author -%}
+      {%- if page.
+        -%}
         • {% for author in page.author %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
+            <span class="p-author h-card" itemprop="name">{{ author.name }}</span></span>
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
       {%- endif -%}</p>
