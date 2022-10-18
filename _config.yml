@@ -1,4 +1,4 @@
 remote_theme: jekyll/minima
 minima: 
-  skin: light 
+  skin: classic
 site.title: "STAND"
