@@ -4,7 +4,6 @@ title: "First update"
 author: Tom Finch
 ---
 
-## Success!
 We're delighted that *STAND* is among the successful projects recently announced through the latest round of the Treescapes programme. You can read more about the six successful Call 2 projects [here](https://www.ukri.org/news/research-will-support-the-expansion-of-treescapes-in-the-uk/){:target="_blank"}. I also posted a short [Twitter thread](https://twitter.com/tomfinch89/status/1574334368591630337?s=20&t=KtAjW8W9oNwX5yhSHFW_8A){:target="_blank"} to briefly introduce *STAND*, and [this](https://community.rspb.org.uk/ourwork/b/science/posts/innovative-research-to-support-the-expansion-of-forests-in-the-uk){:target="_blank"} RSPB Science blog has some more details too (it also covers another Call 2 project, *DiversiTree*, which my colleague Paul Bellamy is involved in).
 
 ## What's in a name?
