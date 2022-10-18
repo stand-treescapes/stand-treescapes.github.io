@@ -2,3 +2,4 @@ remote_theme: jekyll/minima
 minima: 
   skin: classic
 site.title: "STAND"
+show_excerpts: true
