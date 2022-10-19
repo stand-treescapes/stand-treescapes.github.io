@@ -5,9 +5,9 @@ permalink: "index.html"
 ---
 ## Scenarios of Treescape Expansion for People and Nature
 STAND is a [*Future of UK Treescapes*](https://www.uktreescapes.org/){:target="_blank"} project, led by the [RSPB](https://www.rspb.org.uk/our-work/conservation/centre-for-conservation-science/) in collaboration with [Cardiff University](https://www.cardiff.ac.uk/social-sciences){:target="_blank"} and [UHI](https://www.inverness.uhi.ac.uk/research/forestry-and-conservation-group/){:target="_blank"}.
-<img src="/stand/assets/img/multiscale.png" width=500> 
 
 ## Project summary
+<img align="left" src="/stand/assets/img/multiscale.png" width=500> 
 * The expansion of woodlands and treescapes presents a potential solution to the climate and nature crises, and forms a core part of the UK Government's [Net Zero Strategy](https://www.gov.uk/government/publications/net-zero-strategy).
 * But decision makers need to know how the form, location & configuration of treescape expansion influences social and environmental costs and benefits.
 * National policies and targets rarely map neatly onto actions at lower spatial scales (e.g. farms and landscapes). 
@@ -18,9 +18,6 @@ STAND is a [*Future of UK Treescapes*](https://www.uktreescapes.org/){:target="_
 
 ## Case study landscapes
 Our case study landscapes exemplify the challenges and opportunities of treescape expansion. **Elenydd-Mallaen** in mid-Wales overlaps the Special Protection Area (SPA) of the same name, whilst the **North Pennines & Dales** in northern England occupies the North Pennines Area of Outstanding Natural Beauty and most of the Yorkshire Dales National Park.
-
-## Graphical overview of STAND's research questions
-<img src="/stand/assets/img/STAND-diagram.png" width=1000>
 
 ## Contact
 If you want to get in touch, please email [Tom Finch](mailto:tom.finch@rspb.org.uk)
