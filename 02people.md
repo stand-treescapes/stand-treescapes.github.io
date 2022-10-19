@@ -19,6 +19,7 @@ STAND unites an interdisciplinary and geographically spread team of researchers 
 | <img src="/stand/assets/img/sb.png" width=100> | **Prof Susan Baker** (School of Social Sciences, Cardiff University) |
 | <img src="/stand/assets/img/nc.png" width=100> | **Dr Natasha Constant** (RSPB Centre for Conservation Science) |
 | <img src="/stand/assets/img/eb.png" width=100> | **Dr Euan Bowditch** (Scottish School of Forestry Research, University of the Highlands and Islands) |
+{:.custom-table}
 
 <!-- ## Partner organisations -->
 
