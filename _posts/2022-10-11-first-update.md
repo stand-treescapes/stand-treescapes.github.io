@@ -15,3 +15,5 @@ A few people have asked "why *STAND*?". This is a good question. *STAND* is roug
 * My colleague Andrew Weatherall introduced *STAND* at the recent [Future of UK Treescapes conference](https://www.uktreescapes.org/future-treescapes-22-the-more-we-learn-about-trees-the-more-there-is-to-learn/){:target="_blank"}. There's a recording [here](https://youtu.be/ksexVrBIncE?t=10235){:target="_blank"}.
 * We'll shortly be advertising three exciting job opportunities, so watch this space.
 
+***
+Tom Finch
