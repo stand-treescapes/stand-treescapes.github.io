@@ -20,3 +20,6 @@ Our case study landscapes exemplify the challenges and opportunities of treescap
 
 ## Graphical overview of STAND's research questions
 <img src="/stand/assets/img/STAND-diagram.png" width=1000>
+
+## Contact
+If you want to get in touch, please email [Tom Finch](mailto:tom.finch@rspb.org.uk)
