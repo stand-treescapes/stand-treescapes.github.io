@@ -3,3 +3,5 @@ minima:
   skin: classic
 site.title: "STAND"
 show_excerpts: true
+plugins:
+  - jekyll-feed
