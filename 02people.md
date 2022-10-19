@@ -9,7 +9,7 @@ permalink: /people/
    border: none!important;
    border-color: #FFFFFF;
    background-color: #FFFFFF;
-   padding: 1px;
+   padding: 3px;
 }
 </style>
 
