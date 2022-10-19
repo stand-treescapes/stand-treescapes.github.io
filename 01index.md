@@ -9,7 +9,7 @@ STAND is a [*Future of UK Treescapes*](https://www.uktreescapes.org/){:target="_
 ## Project summary
 * The expansion of woodlands and treescapes presents a potential solution to the climate and nature crises, and forms a core part of the UK Government's [Net Zero Strategy](https://www.gov.uk/government/publications/net-zero-strategy).
 * But decision makers need to know how the form, location & configuration of treescape expansion influences social and environmental costs and benefits.
-<img align="right" src="/stand/assets/img/multiscale.png" style="border:5px" width=250> 
+<img align="right" src="/stand/assets/img/multiscale.png" style="margin:5px 5px 5px 5px" width=250> 
 * National policies and targets rarely map neatly onto actions at lower spatial scales (e.g. farms and landscapes). 
 * **Top-down** approaches to treescape expansion risk alienating local actors…
 * …whilst **bottom-up** approaches may fall short of ambition needed to address global challenges.
