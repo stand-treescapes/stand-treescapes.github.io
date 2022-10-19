@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First update"
+title: "STAND Newsletter Oct 22"
 author: Tom Finch
 ---
 
