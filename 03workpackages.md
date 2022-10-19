@@ -19,3 +19,6 @@ permalink: /workpackages/
 * Co-produce local Treescape Expansion Action Plan for each case study landscape
 * Assess whether co-produced landscape-scale scenarios (bottom-up) achieve ambition implied by national scenarios (top-down)
 * Prepare best-practice guidance to facilitate future application of our interdisciplinary, participatory, cross-scale methodology
+
+## Graphical overview of STAND's research questions
+<img src="/stand/assets/img/STAND-diagram.png" width=1000>
