@@ -16,7 +16,7 @@ permalink: /research/
 
 ## Case study landscapes
 Our case study landscapes exemplify the challenges and opportunities of treescape expansion. **Elenydd-Mallaen** in mid-Wales overlaps the Special Protection Area (SPA) of the same name, whilst the **North Pennines & Dales** in northern England occupies the North Pennines Area of Outstanding Natural Beauty and most of the Yorkshire Dales National Park.
-<iframe src="https://www.google.com/maps/d/embed?mid=1ELysbd_HcyENvsuK5auBFbFpwZ0" width="640" height="480"></iframe>
+<!-- <iframe src="https://www.google.com/maps/d/embed?mid=1ELysbd_HcyENvsuK5auBFbFpwZ0" width="640" height="480"></iframe> -->
 
 ## Graphical overview of STAND's research questions
 <img src="/assets/img/STAND-diagram.png" width=1000>
