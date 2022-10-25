@@ -6,7 +6,7 @@ carousels:
   - images: 
     - image: /uploads/slider/geltsdale_regen2_wide.png
     - image: /uploads/slider/woowa_wide.png
-    - image: /uploads/slider/kilarney_wide.png
+    - image: /uploads/slider/kilarney_wide.jpg
 ---
 
 ## Scenarios of Treescape Expansion for People and Nature
