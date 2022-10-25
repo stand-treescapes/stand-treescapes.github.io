@@ -5,7 +5,6 @@ permalink: "index.html"
 carousels:
   - images: 
     - image: /assets/img/geltsdale_regen2_crop.png
-      - carousel-caption: "A" 
 ---
 
 ## Scenarios of Treescape Expansion for People and Nature
