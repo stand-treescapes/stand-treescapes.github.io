@@ -4,7 +4,9 @@ title: "Home"
 permalink: "index.html"
 carousels:
   - images: 
-    - image: /assets/img/geltsdale_regen2_crop.png
+    - image: /uploads/slider/geltsdale_regen2_wide.png
+    - image: /uploads/slider/woowa_wide.png
+    - image: /uploads/slider/kilarney_wide.png
 ---
 
 ## Scenarios of Treescape Expansion for People and Nature
