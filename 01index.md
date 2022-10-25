@@ -11,11 +11,6 @@ carousels:
  
  {% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
-<figure>
-    <img src='/assets/img/geltsdale_regen2_crop.png' alt='Regenerating woodland at RSPB Geltsdale, North Pennines' />
-    <figcaption>Regenerating woodland at RSPB Geltsdale, North Pennines</figcaption>
-</figure>
-
 You can find out more about the team [here](https://t-finch.github.io/stand/people/){:target="_blank"}, catch up on project news [here](https://t-finch.github.io/stand/news/){:target="_blank"}, and learn more about our research [here](https://t-finch.github.io/stand/research/){:target="_blank"}. 
 
 ## Contact
