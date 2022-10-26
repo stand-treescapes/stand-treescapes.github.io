@@ -9,7 +9,7 @@ permalink: /research/
 * [Graphical overview of STAND's research questions](https://stand-treescapes.github.io/research/#graphical-overview-of-stands-research-questions)
 
 ## Project summary
-<img src="/assets/img/multiscale.png" style="margin:5px 5px 5px 5px" width=300 align="right"> 
+<img src="/assets/img/multiscale.png" style="margin:5px 5px 5px 5px" width=250 align="right"> 
 * The expansion of woodlands and treescapes presents a potential solution to the climate and nature crises, and forms a core part of the UK Government's [Net Zero Strategy](https://www.gov.uk/government/publications/net-zero-strategy).
 * But decision makers need to know how the form, location & configuration of treescape expansion influences social and environmental costs and benefits.
 * National policies and targets rarely map neatly onto actions at lower spatial scales (e.g. farms and landscapes). 
