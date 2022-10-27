@@ -19,26 +19,19 @@ You can find out more about the team [here](https://stand-treescapes.github.io/p
 ## Contact
 If you want to get in touch, please email [Tom Finch](mailto:tom.finch@rspb.org.uk)
 
-## Monthly newsletter
 <!-- Begin Mailchimp Signup Form -->
 <div id="mc_embed_signup">
     <form action="https://github.us10.list-manage.com/subscribe/post?u=0eb58357dda98df7c3c199f7a&amp;id=aa38a70a44&amp;v_id=5024&amp;f_id=00e329e2f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
         <div id="mc_embed_signup_scroll">
         <h2>Subscribe to our monthly newsletter</h2>
-        <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
+	<label for="mce-EMAIL">Email Address</label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required>
 	<span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
 </div>
 <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
     <div class="content__gdpr">
         <label>Marketing Permissions</label>
-        <p>Please select all the ways you would like to hear from RSPB:</p>
-        <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
-		<label class="checkbox subfield" for="gdpr_59740"><input type="checkbox" id="gdpr_59740" name="gdpr[59740]" value="Y" class="av-checkbox "><span>Email</span> </label>
-        </fieldset>
         <p>You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.</p>
     </div>
     <div class="content__gdprLegal">
