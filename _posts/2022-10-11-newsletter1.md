@@ -15,6 +15,9 @@ A few people have asked "why *STAND*?". This is a good question. *STAND* is roug
 * My colleague Andrew Weatherall introduced *STAND* at the recent [Future of UK Treescapes conference](https://www.uktreescapes.org/future-treescapes-22-the-more-we-learn-about-trees-the-more-there-is-to-learn/){:target="_blank"}. There's a recording [here](https://youtu.be/ksexVrBIncE?t=10235){:target="_blank"}.
 * We'll shortly be advertising three exciting job opportunities, so watch this space.
 
+***
+Tom Finch
+***
 <!-- Begin Mailchimp Signup Form -->
 <div id="mc_embed_signup">
     <form action="https://github.us10.list-manage.com/subscribe/post?u=0eb58357dda98df7c3c199f7a&amp;id=aa38a70a44&amp;v_id=5024&amp;f_id=00e329e2f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
@@ -49,5 +52,3 @@ A few people have asked "why *STAND*?". This is a good question. *STAND* is roug
 </div>
 
 <!--End mc_embed_signup-->
-***
-Tom Finch
