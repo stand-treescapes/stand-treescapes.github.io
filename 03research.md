@@ -19,6 +19,10 @@ permalink: /research/
 * STAND will address this 'scale mismatch' which, we argue, creates a barrier to effective treescape expansion. 
 * We will combine national- and landscape-scale modelling with Participatory Scenario Planning to understand how future treescape expansion can be designed and governed to achieve the best outcomes for people and nature.
 
+## Case study landscapes
+Our case study landscapes exemplify the challenges and opportunities of treescape expansion. **Elenydd-Mallaen** in mid-Wales overlaps the Special Protection Area (SPA) of the same name, whilst the **North Pennines & Dales** in northern England occupies the North Pennines Area of Outstanding Natural Beauty and most of the Yorkshire Dales National Park.
+<!-- <iframe src="https://www.google.com/maps/d/embed?mid=1jILuRUoChf3YnvONCV_1T3YCTJKuI_o&ehbc=2E312F" height="480" width="100%"></iframe> -->
+
 ## Work packages
 ### WP1: embedding local ambition in the national context
 * Simulate and evaluate 1000s of future land-use scenarios
@@ -34,12 +38,6 @@ permalink: /research/
 * Co-produce local Treescape Expansion Action Plan for each landscape
 * Assess whether co-produced landscape-scale scenarios (bottom-up) achieve ambition implied by national scenarios (top-down)
 * Prepare best-practice guidance to facilitate future application of our interdisciplinary, participatory, cross-scale methodology
-
-
-
-## Case study landscapes
-Our case study landscapes exemplify the challenges and opportunities of treescape expansion. **Elenydd-Mallaen** in mid-Wales overlaps the Special Protection Area (SPA) of the same name, whilst the **North Pennines & Dales** in northern England occupies the North Pennines Area of Outstanding Natural Beauty and most of the Yorkshire Dales National Park.
-<!-- <iframe src="https://www.google.com/maps/d/embed?mid=1jILuRUoChf3YnvONCV_1T3YCTJKuI_o&ehbc=2E312F" height="480" width="100%"></iframe> -->
 
 ## Graphical overview of STAND's research questions
 <img src="/assets/img/STAND-diagram.png" width=1000>
