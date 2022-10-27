@@ -33,7 +33,7 @@ Our case study landscapes exemplify the challenges and opportunities of treescap
 * Evaluate impacts on AFOLU GHG emissions, food production and bird populations, as well as stakeholder preferences
 * Understand how different actors at different nested scales can work in synergy to deliver positive change
 
-### WP3: inter-disciplinary synthesis
+### WP3: inter-disciplinary synthesis:
 * Co-produce local Treescape Expansion Action Plan for each landscape
 * Assess whether co-produced landscape-scale scenarios (bottom-up) achieve ambition implied by national scenarios (top-down)
 
