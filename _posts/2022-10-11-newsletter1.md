@@ -18,6 +18,7 @@ A few people have asked "why *STAND*?". This is a good question. *STAND* is roug
 ***
 Tom Finch
 ***
+
 <!-- Begin Mailchimp Signup Form -->
 <div id="mc_embed_signup">
     <form action="https://github.us10.list-manage.com/subscribe/post?u=0eb58357dda98df7c3c199f7a&amp;id=aa38a70a44&amp;v_id=5024&amp;f_id=00e329e2f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
