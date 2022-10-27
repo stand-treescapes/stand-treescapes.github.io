@@ -5,8 +5,8 @@ author: Tom Finch
 ---
 We're pleased to announce two exciting job opportunites, with a third following very soon.
 
+<img src="/assets/img/rspb_science.jpg" width="15%" align="right">
 ## Conservation Scientist (RSPB)
-<img src="/assets/img/rspb_science.jpg" width="10%" align="right">
 [Apply here](https://app.vacancy-filler.co.uk/salescrm/Careers/CareersPage.aspx?e=LMo8nnTwYNbkYbyd73DBAgn4XORKsQ-43KUnd7sVd-tm589ZzDNYXzX4i9vReIJnpILxufpG3JA&iframe=True){:target="_blank"}
 
 This is a two-year post based in the England & Wales section at the RSPB Centre for Conservation Science. We're looking for a conservation scientist with strong analytical skills to lead the modelling of alternative future land use scenarios at both the UK scale and in two case-study landscapes.
@@ -14,6 +14,7 @@ This is a two-year post based in the England & Wales section at the RSPB Centre 
 * Salary: £33,600 - £37,275 Per Annum
 * Benefits: Pension, 26 days Annual Leave, Life Assurance
 
+<img src="/assets/img/rspb_science.jpg" width="15%" align="right">
 ## Senior Research Assistant (RSPB)
 [Apply here](https://app.vacancy-filler.co.uk/salescrm/Careers/CareersPage.aspx?e=LMo8nnTwYNb3Q2Ff20tNfwNEXO1aJQHBFdpfoNFdmyxRnu81gAZOFMkNdzDjl-YWm-qFURp_FZg&iframe=True){:target="_blank"}
 
