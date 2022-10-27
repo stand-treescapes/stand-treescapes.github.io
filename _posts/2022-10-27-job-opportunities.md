@@ -6,6 +6,7 @@ author: Tom Finch
 We're pleased to announce two exciting job opportunites, with a third following very soon.
 
 ## Conservation Scientist (RSPB)
+<img src="rspb_science.jpg" width="10%" align="right">
 [Apply here](https://app.vacancy-filler.co.uk/salescrm/Careers/CareersPage.aspx?e=LMo8nnTwYNbkYbyd73DBAgn4XORKsQ-43KUnd7sVd-tm589ZzDNYXzX4i9vReIJnpILxufpG3JA&iframe=True){:target="_blank"}
 
 This is a two-year post based in the England & Wales section at the RSPB Centre for Conservation Science. We're looking for a conservation scientist with strong analytical skills to lead the modelling of alternative future land use scenarios at both the UK scale and in two case-study landscapes.
