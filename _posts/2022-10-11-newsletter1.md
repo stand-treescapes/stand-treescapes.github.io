@@ -17,6 +17,7 @@ A few people have asked "why *STAND*?". This is a good question. *STAND* is roug
 
 ***
 Tom Finch
+
 ***
 
 <!-- Begin Mailchimp Signup Form -->
