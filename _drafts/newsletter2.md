@@ -7,11 +7,19 @@ author: Tom Finch
 Welcome to the November issue of the STAND newsletter.
 
 ## Job opportunities
+We have three exciting job opportunities:
+* Conservation Scientist (RSPB): [Apply here](https://app.vacancy-filler.co.uk/salescrm/Careers/CareersPage.aspx?e=LMo8nnTwYNbkYbyd73DBAgn4XORKsQ-43KUnd7sVd-tm589ZzDNYXzX4i9vReIJnpILxufpG3JA&iframe=True){:target="_blank"}
+* Senior Research Assistant - social science (RSPB): [Apply here](https://app.vacancy-filler.co.uk/salescrm/Careers/CareersPage.aspx?e=LMo8nnTwYNb3Q2Ff20tNfwNEXO1aJQHBFdpfoNFdmyxRnu81gAZOFMkNdzDjl-YWm-qFURp_FZg&iframe=True){:target="_blank"}
+* Research Associate - social science (Cardiff University): Apply here
 
 ## Introducing the project team
+<img src="/assets/img/rspb_science.jpg" width="15%" align="right">
 ### Tom
+<img src="/assets/img/cardiff.jpg" width="15%" align="right">
 ### Susan
+<img src="/assets/img/rspb_science.jpg" width="15%" align="right">
 ### Tash
+<img src="/assets/img/uhi.jpg" width="15%" align="right">
 ### Euan
 
 ***
