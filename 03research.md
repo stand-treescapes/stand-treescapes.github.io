@@ -24,18 +24,9 @@ Our case study landscapes exemplify the challenges and opportunities of treescap
 <!-- <iframe src="https://www.google.com/maps/d/embed?mid=1jILuRUoChf3YnvONCV_1T3YCTJKuI_o&ehbc=2E312F" height="480" width="100%"></iframe> -->
 
 ## Work packages
-### WP1: embedding local ambition in the national context:
-* Simulate and evaluate 1000s of future land-use scenarios
-* Predict impacts on Agriculture, Forestry and Other Land Use (AFOLU) Greenhouse Gas (GHG) emissions, food production and bird populations
-
-### WP2: co-producing landscape-scale scenarios of treescape expansion:
-* Co-design scenarios of landscape-scale treescape expansion using Participatory Scenario Planning 
-* Evaluate impacts on AFOLU GHG emissions, food production and bird populations, as well as stakeholder preferences
-* Understand how different actors at different nested scales can work in synergy to deliver positive change
-
-### WP3: inter-disciplinary synthesis:
-* Co-produce local Treescape Expansion Action Plan for each landscape
-* Assess whether co-produced landscape-scale scenarios (bottom-up) achieve ambition implied by national scenarios (top-down)
+### WP1: embedding local ambition in the national context
+### WP2: co-producing landscape-scale scenarios of treescape expansion
+### WP3: inter-disciplinary synthesis
 
 ## Graphical overview of STAND's research questions
 <img src="/assets/img/STAND-diagram.png" width=1000>
