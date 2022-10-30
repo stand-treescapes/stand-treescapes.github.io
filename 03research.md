@@ -6,7 +6,6 @@ permalink: /research/
 ## On this page:
 * [Project summary](https://stand-treescapes.github.io/research/#project-summary)
 * [Case study landscapes](https://stand-treescapes.github.io/research/#case-study-landscapes)
-* [Work packages](https://stand-treescapes.github.io/research/#work-packages)
 * [Graphical overview of STAND's research questions](https://stand-treescapes.github.io/research/#graphical-overview-of-stands-research-questions)
 
 ## Project summary
@@ -22,11 +21,6 @@ permalink: /research/
 ## Case study landscapes
 Our case study landscapes exemplify the challenges and opportunities of treescape expansion. **Elenydd-Mallaen** in mid-Wales overlaps the Special Protection Area (SPA) of the same name, whilst the **North Pennines & Dales** in northern England occupies the North Pennines Area of Outstanding Natural Beauty and most of the Yorkshire Dales National Park.
 <!-- <iframe src="https://www.google.com/maps/d/embed?mid=1jILuRUoChf3YnvONCV_1T3YCTJKuI_o&ehbc=2E312F" height="480" width="100%"></iframe> -->
-
-## Work packages
-### WP1: embedding local ambition in the national context
-### WP2: co-producing landscape-scale scenarios of treescape expansion
-### WP3: inter-disciplinary synthesis
 
 ## Graphical overview of STAND's research questions
 <img src="/assets/img/STAND-diagram.png" width=1000>
