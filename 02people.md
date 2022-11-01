@@ -29,11 +29,11 @@ permalink: /people/
 
 <!-- ## Partner organisations -->
 
-## Expert Advisory Group
+<!-- ## Expert Advisory Group
 We're delighted to have the support of the following experts, who will provide technical and policy-related oversight to the project:
 * Chris Blake (The Green Valleys CIC)
 * Matthew Dennis (University of Leeds)
 * Clare Pinches (Natural England)
 * Eleanor Tew (Forestry England)
 * Andrew Weatherall (RSPB)
-* Clare Williams (Defra)
+* Clare Williams (Defra) -->
