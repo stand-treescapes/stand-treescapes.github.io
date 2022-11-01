@@ -11,7 +11,7 @@ A few people have asked "why *STAND*?". This is a good question. *STAND* is roug
 
 ## Progress so far
 * We have a [project website](https://stand-treescapes.github.io/){:target="_blank"}!
-* We've assembled an Expert Advisory Group (see the [People](https://stand-treescapes.github.io/people/#expert-advisory-group) page) to provide technical and policy-related oversight to the project. 
+* We are assembling an Expert Advisory Group to provide technical and policy-related oversight to the project. 
 * My colleague Andrew Weatherall introduced *STAND* at the recent [Future of UK Treescapes conference](https://www.uktreescapes.org/future-treescapes-22-the-more-we-learn-about-trees-the-more-there-is-to-learn/){:target="_blank"}. There's a recording [here](https://youtu.be/ksexVrBIncE?t=10235){:target="_blank"}.
 * We'll shortly be advertising three exciting job opportunities, so watch this space.
 
