@@ -20,6 +20,8 @@ You can find out more about the team [here](https://stand-treescapes.github.io/p
 ## Contact
 If you want to get in touch, please email [Tom Finch](mailto:tom.finch@rspb.org.uk)
 
+***
+
 <!-- Begin Mailchimp Signup Form -->
 <div id="mc_embed_signup">
     <form action="https://github.us10.list-manage.com/subscribe/post?u=0eb58357dda98df7c3c199f7a&amp;id=aa38a70a44&amp;v_id=5024&amp;f_id=00e329e2f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
