@@ -15,7 +15,7 @@ carousels:
  
  {% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
-You can find out more about the team [here](https://stand-treescapes.github.io/people/){:target="_blank"}, catch up on project news [here](https://stand-treescapes.github.io/news/){:target="_blank"}, and learn more about our research [here](https://stand-treescapes.github.io/research/){:target="_blank"}. 
+You can find out more about the team [here](https://stand-treescapes.github.io/our-team/){:target="_blank"}, catch up on project news [here](https://stand-treescapes.github.io/news/){:target="_blank"}, and learn more about our research [here](https://stand-treescapes.github.io/research/){:target="_blank"}. 
 
 ## Contact
 If you want to get in touch, please email [Tom Finch](mailto:tom.finch@rspb.org.uk)
