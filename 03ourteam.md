@@ -21,10 +21,10 @@ permalink: /our-team/
 ## Project team
 *STAND* unites an interdisciplinary and geographically spread team of researchers interested in how treescape expansion can be designed and governed to benefit people and nature:
 
-| <img src="/assets/img/tf.png" width=100> | **Dr Tom Finch** (RSPB Centre for Conservation Science). Tom is a conservation scientist at the RSPB, interested in the impact of land use on nature, climate and food.| 
-| <img src="/assets/img/sb.png" width=100> | **Prof Susan Baker** (School of Social Sciences, Cardiff University). Susan is a social scientist, working on how to govern social-ecological systems for just and equitable outcomes for nature and society. |
-| <img src="/assets/img/nc.png" width=100> | **Dr Natasha Constant** (RSPB Centre for Conservation Science). Natasha is a social scientist at the RSPB, interested in participatory ways of working with stakeholders to better understand the social dimensions of forest management. |
-| <img src="/assets/img/eb.png" width=100> | **Dr Euan Bowditch** (Scottish School of Forestry Research, University of the Highlands and Islands, Inverness). Euan is an interdisciplinary forestry researcher working at UHI on a range of topics from forest health to social dimensions of management. |
+| <img src="/assets/img/tf.png" width=20%> | **Dr Tom Finch** (RSPB Centre for Conservation Science). Tom is a conservation scientist at the RSPB, interested in the impact of land use on nature, climate and food.| 
+| <img src="/assets/img/sb.png" width=20%> | **Prof Susan Baker** (School of Social Sciences, Cardiff University). Susan is a social scientist, working on how to govern social-ecological systems for just and equitable outcomes for nature and society. |
+| <img src="/assets/img/nc.png" width=20%> | **Dr Natasha Constant** (RSPB Centre for Conservation Science). Natasha is a social scientist at the RSPB, interested in participatory ways of working with stakeholders to better understand the social dimensions of forest management. |
+| <img src="/assets/img/eb.png" width=20%> | **Dr Euan Bowditch** (Scottish School of Forestry Research, University of the Highlands and Islands, Inverness). Euan is an interdisciplinary forestry researcher working at UHI on a range of topics from forest health to social dimensions of management. |
 {:.custom-table}
 
 <!-- ## Partner organisations -->
