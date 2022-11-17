@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "People"
-permalink: /people/
+title: "Our team"
+permalink: /our-team/
 ---
 <!-- ## Edit CSS style for markdown tables -->
 <style>
