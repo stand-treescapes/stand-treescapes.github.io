@@ -1,26 +1,27 @@
 ---
 layout: post
-title: "STAND Newsletter Nove 22"
+title: "STAND Newsletter Nov 22"
 author: Tom Finch
 ---
 
 Welcome to the November issue of the STAND newsletter.
 
-## Job opportunities
-We have three exciting job opportunities:
-* Conservation Scientist (RSPB): [Apply here](https://app.vacancy-filler.co.uk/salescrm/Careers/CareersPage.aspx?e=LMo8nnTwYNbkYbyd73DBAgn4XORKsQ-43KUnd7sVd-tm589ZzDNYXzX4i9vReIJnpILxufpG3JA&iframe=True){:target="_blank"}
-* Senior Research Assistant - social science (RSPB): [Apply here](https://app.vacancy-filler.co.uk/salescrm/Careers/CareersPage.aspx?e=LMo8nnTwYNb3Q2Ff20tNfwNEXO1aJQHBFdpfoNFdmyxRnu81gAZOFMkNdzDjl-YWm-qFURp_FZg&iframe=True){:target="_blank"}
-* Research Associate - social science (Cardiff University): Apply here
-
 ## Introducing the project team
 <img src="/assets/img/rspb_science.jpg" width="15%" align="right">
 ### Tom
+I’m a Senior Conservation Scientist at the RSPB’s Centre for Conservation Science. I use computer modelling to understand how different scenarios of land use and management would impact greenhouse gas emissions, wildlife populations and food production. My background is in ornithology, where my research has focussed on understanding the environmental factors which threaten (or support) declining bird populations. In my free time I enjoy hill running and bird watching. I’m the lead researcher on the STAND project, and am looking forward to working with colleagues from other disciplines; whilst I see myself as an ecologist, it’s clear that many of the problems I’m interested in solving are human, rather than ecological.  
+
 <img src="/assets/img/cardiff.jpg" width="15%" align="right">
 ### Susan
+I have a background in PPE (Philosophy, Politics and Economic) and work at Cardiff University. My research examines the governance of complex, adaptative social-environment systems in pursuit of sustainable development. I was the first woman to be awarded a Royal Appointment as *King Carl XVI Gustaf Professor in Environmental Science*, Sweden and received an honorary Doctorate for my for contribution to interdisciplinary research. In 2016 I was appointed by the UK Government to the Expert Group, United Nations Intergovernmental Science Policy Platform for Biodiversity and Ecosystem Services (IPBES) and have contributed to several of its assessments. I have acted as advisor to the Welsh Government on the *Wellbeing of Future Generations Act 2015*. I am co-founder of the ReGrow Borneo project, which plants trees to support livelihoods in local communities, increase biodiversity, and promote ecosystem resilience in the Lower Kinabatangan, Sabah, Malaysia. In my spare time I paint botanical illustrations and exhibit my work. I am co-leading on the social science component of the STAND project.
+
 <img src="/assets/img/rspb_science.jpg" width="15%" align="right">
 ### Tash
+I am a Senior Social Scientist working for the RSPB’s Centre for Conservation supporting social science research internationally. I have a background in Anthropology and Wildlife Conservation. My current research at the RSPB explores the socio-economic impacts of livelihood interventions for a REDD+ project in Sierra Leone, and the cultural and heritage values associated with the East Caicos in the Caribbean.  A grounding aspect of my research is the integration of participatory social science methodologies to engage stakeholders in our research. In my spare time you’ll find me hiking the coastlines of Devon and Cornwall, and I’m a keen surfer. I am helping lead the participatory scenario planning of the STAND project to better understand how future treescapes can achieve the best outcomes for people and nature.  
+
 <img src="/assets/img/uhi.jpg" width="15%" align="right">
 ### Euan
+I have a background in forest and tree practice working in community forestry, urban forest management, agroforestry and operational forestry in locations such as USA, northern Europe and Central America. My interdisciplinary research includes using mixed-methods approaches exploring the socio-ecological aspects that impact management decision-making that shape landscapes through perceptions, value and local culture. I am also active in forest health research with a particularly forest on wych elm and Dutch elm disease. As a lecturer, I am also passionate about forest and environmental education and the use of innovative methods for communication. I sit on the Forest Europe expert group for green jobs in forestry and the IUFRO Sustainable Forest Management Criteria and Indicators group. In my spare time I re-enact classic sitcoms in woodland settings using trees as characters and the natural world as the set – I do voices. the STAND project I will be involved in scenario planning and social science that will aim to aid our understanding of woodland expansion targets- and capacity.
 
 ***
 Tom Finch
