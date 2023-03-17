@@ -13,9 +13,6 @@ permalink: /our-team/
 }
 </style>
 
-## !!WE ARE RECRUITING!!
-* [1x Research Associate (Cardiff School of Social Sciences)](https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=30011&siteid=5460&PageType=JobDetails&jobid=2047294#jobDetails=2047294_5460){:target="_blank"}
-
 ## Project team
 *STAND* unites an interdisciplinary and geographically spread team of researchers interested in how treescape expansion can be designed and governed to benefit people and nature:
 
@@ -23,8 +20,8 @@ permalink: /our-team/
 | <img src="/assets/img/sb.png" width=400> | **Prof Susan Baker** (School of Social Sciences, Cardiff University). [Susan](https://www.cardiff.ac.uk/people/view/38140-baker-susan){:target="_blank"} is a social scientist, working on how to govern social-ecological systems for just and equitable outcomes for nature and society. |
 | <img src="/assets/img/nc.png" width=400> | **Dr Natasha Constant** (RSPB Centre for Conservation Science). [Natasha](https://www.rspb.org.uk/our-work/conservation/centre-for-conservation-science/our-team/natasha-constant/){:target="_blank"} is a social scientist at the RSPB, interested in participatory ways of working with stakeholders to better understand the social dimensions of forest management. |
 | <img src="/assets/img/eb.png" width=400> | **Dr Euan Bowditch** (Scottish School of Forestry Research, University of the Highlands and Islands, Inverness). [Euan](https://pure.uhi.ac.uk/en/persons/euan-bowditch){:target="_blank"} is an interdisciplinary forestry researcher working at UHI on a range of topics from forest health to social dimensions of management. |
-| | **Dr Melissa Minter** (RSPB Centre for Conservation Science). |
-| | **Alix Zelley** (RSPB Centre for Conservation Science). |
+| <img src="/assets/img/mm.png" width=400> | **Dr Melissa Minter** (RSPB Centre for Conservation Science). [Melissa](https://www.rspb.org.uk/our-work/conservation/centre-for-conservation-science/our-team/melissa-minter/){:target="_blank"} |
+| | **Alix Zelley** (RSPB Centre for Conservation Science). [Alix](https://www.rspb.org.uk/our-work/conservation/centre-for-conservation-science/our-team/alix-zelly/){:target="_blank"}|
 
 {:.custom-table}
 
