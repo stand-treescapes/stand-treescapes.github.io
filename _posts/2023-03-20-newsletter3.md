@@ -4,7 +4,7 @@ title: "STAND Newsletter March 23"
 author: Tom Finch
 ---
 
-Welcome to the (belated) February issue of the STAND newsletter. We're delighted to be able to introduce to two new members of staff to the project team.
+Welcome to the (belated) March issue of the STAND newsletter. We're delighted to be able to introduce to two new members of staff to the project team.
 
 <img src="/assets/img/rspb_science.jpg" width="15%" align="right">
 ### Melissa
