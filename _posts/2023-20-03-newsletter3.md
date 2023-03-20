@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "STAND Newsletter February 23"
+title: "STAND Newsletter March 23"
 author: Tom Finch
 ---
 
