@@ -4,7 +4,7 @@ title: "STAND Newsletter March 23"
 author: Tom Finch
 ---
 
-Welcome to the (belated) March issue of the STAND newsletter. We're delighted to be able to introduce to two new members of staff to the (project team)[https://stand-treescapes.github.io/our-team/]{target="_blank"}.
+Welcome to the (belated) March issue of the STAND newsletter. We're delighted to be able to introduce to two new members of staff to the [project team](https://stand-treescapes.github.io/our-team/){:target="_blank"}.
 
 <img src="/assets/img/rspb_science.jpg" width="15%" align="right">
 ### Melissa
