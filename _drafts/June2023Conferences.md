@@ -13,9 +13,10 @@ Alix Zelly, Senior Research Assistant at RSPB Conservation Science, presented du
 Connected Treescapes. Alix’s presentation outlined STAND’s participatory methodology for designing future treescape scenarios that will benefit both people and nature. The panel covered diverse 
 approaches to landscape-coordinated tree planting investment, showcasing decision frameworks, portfolio analysis, and coordinated policies to achieve resilient treescapes.
 
-By engaging with local stakeholders through workshops that will be held during the summer we will enable local production of future scenarios. These scenarios will be based on their ambitions and values 
-for the treescape expansion. We shared how the workshops activities have been designed to be able to integrate the participatory data captured into the wider interdisciplinary work programme. In which, the 
-values of stakeholders will form the rules used for our treescape scenario modelling.
+During Alix’s presentation, she explained our methodology for creating future treescape scenarios through engaging with local stakeholders at workshops that will be held
+during this summer. These scenarios will be based on their ambitions and values for the treescape expansion. We shared how the workshops activities have been designed to be
+able to integrate the participatory data captured into the wider interdisciplinary work programme. In which, the values of stakeholders will form the rules used for our
+treescape scenario modelling.
 
 It was a great opportunity to get the teams together, including meeting for the first time in person with members of our advisory board. The opportunity to meet face to face enabled us to discuss and ask 
 questions regarding everyone's role within the programme.
