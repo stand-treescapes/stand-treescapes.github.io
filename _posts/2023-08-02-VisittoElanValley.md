@@ -4,6 +4,8 @@ title: "STAND Team Visit Elan Valley, Wales"
 author: Teyana Muir
 ---
 
+### STAND team visited the Elan Valley, Wales, on the 13th of July
+
 Alix, Susan and Sheena from the STAND team visited the Elan Valley, Wales, on the 13th of July to gain a 
 deeper understanding of the history, character and current activities taking place within the Valley, one 
 of our case study landscapes. Our team met up with the local RSPB Conservation Officer and the Reserve 
