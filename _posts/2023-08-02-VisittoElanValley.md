@@ -33,16 +33,16 @@ landscape.
 <i>View from Claerwen Dam:: areas of Ffridd habitat with mixed bracken, small shrubs and scrub, may provide opportunites for treescape expansion.<i>
 <img src="/assets/img/Dam.jpg">
 
-Open bog and moorland above the reservoirs, key areas for Curlew and other upland birds.
+<i>Open bog and moorland above the reservoirs, key areas for Curlew and other upland birds.<i>
 <img src="/assets/img/Landscape.jpg">
 
-Craig Goch Dam: decidous woodland lines the resevoir edges, with some small areas of commeical coniferous plantation scattered on higher slopes.
+<i>Craig Goch Dam: decidous woodland lines the resevoir edges, with some small areas of commeical coniferous plantation scattered on higher slopes.<i>
 <img src="/assets/img/Landscape2.jpg">
 
-The Team at Elan Valley: Alix and Susan with RSPB Conservation Officer, Ben.
+<i>The Team at Elan Valley: Alix and Susan with RSPB Conservation Officer, Ben.<i>
 <img src="/assets/img/TheTeamElanValley.jpg">
 
-The Team at Elan Valley: Alix and Sheena with RSPB Conservation Officer, Ben.
+<i>The Team at Elan Valley: Alix and Sheena with RSPB Conservation Officer, Ben.<i>
 <img src="/assets/img/TheTeamElanValley2.jpg">
 
 ***
