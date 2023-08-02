@@ -4,16 +4,18 @@ title: "STAND Team Visit Elan Valley, Wales"
 author: Teyana Muir
 ---
 
-Alix, Sue and Sheena from the STAND team visited Elan Valley, Wales, on the 13th of July to gain a 
+Alix, Susan and Sheena from the STAND team visited the Elan Valley, Wales, on the 13th of July to gain a 
 deeper understanding of the history, character and current activities taking place within the Valley, one 
 of our case study landscapes. Our team met up with the local RSPB Conservation Officer and the Reserve 
 Warden at RSPB Carganfallt for a tour of the landscape and a discussion on the current management, 
 habitat types, challenges and opportunities for future land use change. The main habitats of the valley 
 include blanket bogs, moorland, waterways and the woodland. At this location the woodland is referred 
 to as an ‘Atlantic woodland’ because of the wetness of the environment it almost imitates the Amazon 
-Rainforest. The area is designated an Important Plant Area with plant species such as bog rosemary, 
+Rainforest. This habitat is incredibly rare globally and contains perfect conditions for rare plants, 
+fungi and lichens. It's also home to a variety of birds and mammals.
+The area is designated an Important Plant Area with plant species such as bog rosemary, 
 cotton grasses, heather and bog mosses. The area is also designated Sight of Special Scientific Interest to 
-support upland bird assemblage, peregrine falcon and merlin, red kites, with the wider landscape also 
+support upland bird assemblage, peregrine falcon, merlin and red kites, with the wider landscape also 
 providing key habitat for curlew's, dunlin and golden plover.
 
 Elan Valley has a deep history that dates back to around 4,000 years ago. The people and landscape of 
@@ -35,10 +37,10 @@ Open bog and moorland above the reservoirs, key areas for Curlew and other uplan
 Craig Goch Dam: decidous woodland lines the resevoir edges, with some small areas of commeical coniferous plantation scattered on higher slopes.
 <img src="/assets/img/Landscape2.jpg">
 
-The Team at Elan Valley: Alix and Susan with RSPB Conservation Officer.
+The Team at Elan Valley: Alix and Susan with RSPB Conservation Officer, Ben.
 <img src="/assets/img/TheTeamElanValley.jpg">
 
-The Team at Elan Valley: Alix and Sheena with RSPB Conservation Officer.
+The Team at Elan Valley: Alix and Sheena with RSPB Conservation Officer, Ben.
 <img src="/assets/img/TheTeamElanValley2.jpg">
 
 ***
