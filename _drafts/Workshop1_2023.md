@@ -26,6 +26,8 @@ This day was a fantastic opportunity for the STAND team to get together, meet wi
 
 ‘Very useful to focus on what people with knowledge of this landscape think about the future of the uplands’
 
+<img src="/assets/img/TheTeamWorkShop1.jpg">
+
 Creating and modeling the stakeholder scenarios is the team's next step with the STAND project. By creating these models, we will be able to predict the consequences of each scenario on different ecosystem service measures. What effect will each scenario have on food or timber production? How is each scenario going to affect biodiversity and carbon sequestration in this environment? 
  
 The STAND project team members will be running a second workshop next year with the same group of stakeholders to give feedback regarding these models. This allows for discussion about trade-offs and synergies between different objectives. 
