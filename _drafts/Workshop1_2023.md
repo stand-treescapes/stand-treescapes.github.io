@@ -18,7 +18,7 @@ The second activity looked towards the future and enabled the stakeholders to di
  
 The final activity brought together all elements discussed so far, their ecosystem service values, what is most important to them, and rules for where trees can or can’t be planted, to describe their own 2050 scenario. Each group's preferences have been noted in order for us to model their future 2050 scenario. To conclude the day, each break out group presented their scenario and shared what they have learnt from the workshop.  
 
-
+<img src="/assets/img/WorkShop1ActivityDiscussion.jpg">
 
 This day was a fantastic opportunity for the STAND team to get together, meet with local stakeholders and for participants to network across different sectors. Participants engaged with all the activities well, which prompted healthy and detailed discussions regarding their future visions of land use changes. 
 
