@@ -11,10 +11,14 @@ Our first workshop took place on the 25th of July 2023 at the North Pennines and
 
 Throughout the workshop day stakeholders participated in activities which enabled us to gain valuable information regarding their vision, their values and preferences for treescapes interventions that will be used to create future scenarios.  
 First, in break-out groups, the stakeholders reflected on the current day landscape uses, using a participatory mapping exercise to prompt discussion on ‘What ecosystem services does the landscape currently provide?’ 
+
+<img src="/assets/img/WorkShop1Breakoutgroups.jpg">
  
 The second activity looked towards the future and enabled the stakeholders to discuss what land use changes and treescape interventions they would like to see for their land and environment, asking them the question ‘What do we want the landscape to provide in 2050’.  
  
 The final activity brought together all elements discussed so far, their ecosystem service values, what is most important to them, and rules for where trees can or can’t be planted, to describe their own 2050 scenario. Each group's preferences have been noted in order for us to model their future 2050 scenario. To conclude the day, each break out group presented their scenario and shared what they have learnt from the workshop.  
+
+
 
 This day was a fantastic opportunity for the STAND team to get together, meet with local stakeholders and for participants to network across different sectors. Participants engaged with all the activities well, which prompted healthy and detailed discussions regarding their future visions of land use changes. 
 
