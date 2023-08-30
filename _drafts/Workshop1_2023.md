@@ -7,7 +7,7 @@ author: Teyana Muir
 
 Our first workshop took place on the 25th of July 2023 at the North Pennines and Yorkshire Dales. This workshop was delivered by our STAND project team members who welcomed and introduced the project to twenty local stakeholders, farmers, estate managers, NGOs, industry, public bodies and local authorities. The intention of the first workshop was to gain an understanding of local stakeholders' interests, preferences and their ambitions for different land uses and treescape approaches. 
 
-
+<img src="/assets/img/WelcomeWorkshop1.jpg">
 
 Throughout the workshop day stakeholders participated in activities which enabled us to gain valuable information regarding their vision, their values and preferences for treescapes interventions that will be used to create future scenarios.  
 First, in break-out groups, the stakeholders reflected on the current day landscape uses, using a participatory mapping exercise to prompt discussion on ‘What ecosystem services does the landscape currently provide?’ 
