@@ -12,7 +12,7 @@ Our first workshop took place on the 25th of July 2023 at the North Pennines and
 
 Throughout the workshop day stakeholders participated in activities which enabled us to learn about their vision, their values and preferences for treescapes interventions that will be used to create future scenarios.  
 First, in break-out groups, the stakeholders reflected on the current day landscape uses, using a participatory mapping exercise to prompt discussion on ‘What ecosystem services does the landscape currently provide?’
-<img src="/assets/img/WorkShop1Breakoutgroups.jpg"> 
+<img src="/assets/img/WorkShop1Breakoutgroups(new).jpg">
 <i>Each break-out group participating in the activities.</i>
 
  
