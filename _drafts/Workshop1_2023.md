@@ -22,6 +22,7 @@ The final activity brought together all elements discussed so far, their ecosyst
 
 This day was a fantastic opportunity for the STAND team to get together, meet with local stakeholders and for participants to network across different sectors. Participants engaged with all the activities well, which prompted healthy and detailed discussions regarding their future visions of land use changes. 
 
+Feedback from participants involved:
 ‘A good atmosphere and brilliant to talk to other people from different perspectives’
 
 ‘Very useful to focus on what people with knowledge of this landscape think about the future of the uplands’
