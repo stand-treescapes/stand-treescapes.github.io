@@ -10,7 +10,6 @@ carousels:
     - image: /uploads/slider/holwick_wide.png
     - image: /uploads/slider/moorhouse_wide.jpg
     - image: /uploads/slider/tees_wide.jpg
-    - image: /uploads/slider/elan_wide.tif
 ---
 
 
