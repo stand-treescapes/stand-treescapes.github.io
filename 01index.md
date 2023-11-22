@@ -21,3 +21,5 @@ You can find out more about the team [here](https://stand-treescapes.github.io/o
 If you want to get in touch, please email [Tom Finch](mailto:tom.finch@rspb.org.uk)
 
 ***
+
+Slider images by Tom Finch, Melissa Minter and [Davidmartyn](https://www.dreamstime.com/royalty-free-stock-photography-elan-valley-image4089427).
