@@ -6,6 +6,7 @@ carousels:
   - images: 
     - image: /uploads/slider/geltsdale_regen2_wide.png
     - image: /uploads/slider/woowa_wide.png
+    - image: /uploads/slider/elan_wide.png
     - image: /uploads/slider/kilarney_wide.jpg
     - image: /uploads/slider/holwick_wide.png
     - image: /uploads/slider/moorhouse_wide.jpg
