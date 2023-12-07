@@ -17,7 +17,7 @@ To do this we used Light Detection and Ranging (LiDAR) data including a **Digita
 <img src="/assets/img/tree_cover_maps.png">
 *Satellite imagery (left), overlain with tree crown polygons (right)*
 
-And there we have it – data which maps the canopy and height of trees and scrub across both our landscapes which we will use to aid our predictions of carbon and birds, both in the current landscape and under future scenarios. 
+And there we have it – data which maps the canopy and height of trees and scrub across both our landscapes which we will use to prediction the carbon sequestration and bird populations, both in the current landscape and under future scenarios. 
 
 ***
 Melissa Minter
