@@ -12,6 +12,8 @@ Since these workshops, work is under way to convert these Land Use Visions into 
 
 To do this we used Light Detection and Ranging (LiDAR) data including a digital elevation model (DEM) which is the height of the bare earth, and a digital surface model (DSM) which is the height including objects such as buildings and vegetation. In order to identify trees and scrub across our two landscapes, we calculated the difference between the DEM and DSM to create a Canopy Height Model (CHM) which is the height of all objects above the Earth’s surface. Using the Canopy Height Model we could calculate tree crowns and height for all vegetation, using a R package called ‘ForestTools’. From these, we removed buildings and used a threshold to define scrub, which was calculated using the mean height of vegetation which is mapped as scrub. 
 
+<img src="/assets/img/tree_cover_maps.png">
+
 And there we have it – data which maps the canopy and height of trees and scrub across both our landscapes which we will use to aid our predictions of carbon and birds, both in the current landscape and under future scenarios. 
 
 ***
