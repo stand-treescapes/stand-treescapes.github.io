@@ -6,7 +6,7 @@ author: Melissa Minter
 
 Melissa tells us about the tree canopy cover data she's produced
 
-# Identifying trees & scrub outside of woodland in our case study landscapes
+# Identifying trees & scrub inside and outside of woodland
 
 In the Summer the STAND team led two stakeholder workshops, one in the North Pennines (England) and one in the Elan Valley (mid-Wales). From these workshops, each stakeholder group came up with their ‘Land Use Vision’ for 2050, detailing the interventions (e.g. peatland restoration, wood pasture, woodland creation etc) they would like to see in the landscape, and the rules for where and where not these interventions could be implemented. 
 
