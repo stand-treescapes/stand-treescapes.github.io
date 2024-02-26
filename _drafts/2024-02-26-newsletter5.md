@@ -9,6 +9,8 @@ Sheena tells us about the semi-structured interviews she is undertaking with loc
 A core qualitative research element of the STAND project is undertaking semi-structured values-based interviews with **local stakeholders** who live and work in the upland environments of the Elenydd and the North Pennines. **Policy actor** interviews with the public sector, farmers unions and third sector working in treescape expansion policy formulation are also a critical element to understand issues and challenges arising. There is an integral link between tree expansion and other biodiversity, climate change and agriculture related policies and strategies and the details and issues behind the **scale dependent collaborative advantage** of policy implementation.  
 
 
+<img src="/assets/img/dreamstime_226006854_small.tif">
+*Elan Valley, near Rhayader, Powys (ID 226006854 ©Beataaldridge | Dreamstime.com)*
 
 We are in the process of conducting a total of fifteen local stakeholder values interviews across the two case study landscapes which include tenant farmer networks, grazing associations, estate owners, land managers, rangers and conservation trusts.
 
